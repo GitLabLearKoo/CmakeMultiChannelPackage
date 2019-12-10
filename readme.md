@@ -4,4 +4,4 @@
 
 |                       circle渠道                       |                       rect渠道                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![circle.png](https://https://github.com/wangshengyang1996/CmakeMultiChannelPackage/circle.png)|![rect.png](https://github.com/wangshengyang1996/CmakeMultiChannelPackage/rect.png)|
+| ![circle.png](https://github.com/wangshengyang1996/blob/master/circle.png)|![rect.png](https://github.com/wangshengyang1996/CmakeMultiChannelPackage/blob/master/rect.png)|
